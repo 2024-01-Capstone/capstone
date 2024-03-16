@@ -1,5 +1,5 @@
-##Team 15
-#GroundRules
+## Team 15
+# GroundRules
 |항목|내용|
 |:---|:---|
 |1|비대면으로 회의 할 때는 캠 켜고 하기|
