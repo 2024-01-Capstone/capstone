@@ -1,4 +1,4 @@
-## Team 15
+## Team 16
 # GroundRules
 |항목|내용|
 |:---|:---|
